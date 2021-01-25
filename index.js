@@ -54,7 +54,7 @@ client.on('a', msg => {
             break;
         case 'about':
         case 'a':
-            sendChat(`This bot was made with https://github.com/Hri7566/bot-base`);
+            sendChat(`This bot was made with https://github.com/multiplayerpiano/bot-base`);
             break;
         case '8ball':
         case 'magic8ball':
